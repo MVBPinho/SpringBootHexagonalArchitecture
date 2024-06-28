@@ -1,3 +1,7 @@
+#Curso
+- nome: Arquitetura Hexagonal/Ports and Adapters NA PRÁTICA
+- url: https://www.udemy.com/course/arquitetura-hexagonal-ou-ports-and-adapters-na-pratica/?couponCode=PPINTENTP3
+
 # Wiremock
 - Baixar o Jar do wiremock através da URL: https://wiremock.org/docs/download-and-installation/
 - Após baixar, executar o seguinte comando na pasta raiz que o download foi realizado: java -jar wiremock-standalone-3.7.0 --port 8082
