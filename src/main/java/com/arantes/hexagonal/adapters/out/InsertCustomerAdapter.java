@@ -1,6 +1,6 @@
 package com.arantes.hexagonal.adapters.out;
 
-import com.arantes.hexagonal.adapters.out.repository.CustomerEntityMapper;
+import com.arantes.hexagonal.adapters.out.repository.mapper.CustomerEntityMapper;
 import com.arantes.hexagonal.adapters.out.repository.CustomerRepository;
 import com.arantes.hexagonal.application.core.domain.Customer;
 import com.arantes.hexagonal.application.ports.out.InsertCustomerOutputPort;
